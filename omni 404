@@ -78,6 +78,78 @@ repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Bla
 repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Spinning Bones")
 repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Trident")
 wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8017.87, 4, 245.185) --hyper dust bypass
+wait()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-30178.7, 0.942504, -57.2601) --hyper dust sans
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-30178.7, 0.942504, -57.2601) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Dual Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Spinning Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Spinning Bone Spawn") and game.Players.LocalPlayer.Backpack:FindFirstChild("Phantom Papyrus") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Spinning Bones") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Trident")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Dual Blaster" or child.Name == "Giant Blaster" or child.Name == "Giant Spinning Blaster" or child.Name == "Spinning Bone Spawn" or child.Name == "Phantom Papyrus" or child.Name == "Giant Spinning Bones" or child.Name == "Giant Trident" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Dual Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Spinning Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Spinning Bone Spawn")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Phantom Papyrus")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Spinning Bones")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Trident")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8017.87, 4, 245.185) --hyper dust bypass
+wait()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-30178.7, 0.942504, -57.2601) --hyper dust sans
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-30178.7, 0.942504, -57.2601) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Dual Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Spinning Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Spinning Bone Spawn") and game.Players.LocalPlayer.Backpack:FindFirstChild("Phantom Papyrus") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Spinning Bones") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Trident")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Dual Blaster" or child.Name == "Giant Blaster" or child.Name == "Giant Spinning Blaster" or child.Name == "Spinning Bone Spawn" or child.Name == "Phantom Papyrus" or child.Name == "Giant Spinning Bones" or child.Name == "Giant Trident" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Dual Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Spinning Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Spinning Bone Spawn")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Phantom Papyrus")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Spinning Bones")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Trident")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8017.87, 4, 245.185) --hyper dust bypass
+wait()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-30178.7, 0.942504, -57.2601) --hyper dust sans
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-30178.7, 0.942504, -57.2601) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Dual Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Spinning Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Spinning Bone Spawn") and game.Players.LocalPlayer.Backpack:FindFirstChild("Phantom Papyrus") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Spinning Bones") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Trident")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Dual Blaster" or child.Name == "Giant Blaster" or child.Name == "Giant Spinning Blaster" or child.Name == "Spinning Bone Spawn" or child.Name == "Phantom Papyrus" or child.Name == "Giant Spinning Bones" or child.Name == "Giant Trident" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Dual Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Spinning Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Spinning Bone Spawn")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Phantom Papyrus")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Spinning Bones")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Trident")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8017.87, 4, 245.185) --hyper dust bypass
+wait()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-30178.7, 0.942504, -57.2601) --hyper dust sans
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-30178.7, 0.942504, -57.2601) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Dual Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Spinning Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Spinning Bone Spawn") and game.Players.LocalPlayer.Backpack:FindFirstChild("Phantom Papyrus") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Spinning Bones") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Trident")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Dual Blaster" or child.Name == "Giant Blaster" or child.Name == "Giant Spinning Blaster" or child.Name == "Spinning Bone Spawn" or child.Name == "Phantom Papyrus" or child.Name == "Giant Spinning Bones" or child.Name == "Giant Trident" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Dual Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Spinning Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Spinning Bone Spawn")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Phantom Papyrus")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Spinning Bones")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Trident")
+wait(0.1)
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8016.96, 4, 232.07) --xdust bypass
 wait()
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-30178.7, 0.944707, -42.35) --xdust
@@ -95,6 +167,114 @@ repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Bl
 repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Blue Bone")
 repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("X-Blade")
 repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("X-Zone")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8017.88, 4, 219.079) --shattered dream bypass
+wait()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-30178.6, 0.927138, -71.2394) --shattered dream
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-30178.6, 0.927138, -71.2394) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Shattered Darkness") and game.Players.LocalPlayer.Backpack:FindFirstChild("Shattered Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Shattered Staff") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Spinning Tentacles") and game.Players.LocalPlayer.Backpack:FindFirstChild("Goop Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Goop Blaster")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Giant Goop Blaster" or child.Name == "Goop Blaster" or child.Name == "Giant Spinning Tentacles" or child.Name == "Shattered Staff" or child.Name == "Shattered Puddle" or child.Name == "Shattered Darkness" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+wait(0.1)
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Shattered Darkness") 
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Shattered Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Shattered Staff")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Spinning Tentacles")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Goop Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Goop Blaster")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8017.88, 4, 219.079) --shattered dream bypass
+wait()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-30178.6, 0.927138, -71.2394) --shattered dream
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-30178.6, 0.927138, -71.2394) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Shattered Darkness") and game.Players.LocalPlayer.Backpack:FindFirstChild("Shattered Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Shattered Staff") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Spinning Tentacles") and game.Players.LocalPlayer.Backpack:FindFirstChild("Goop Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Goop Blaster")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Giant Goop Blaster" or child.Name == "Goop Blaster" or child.Name == "Giant Spinning Tentacles" or child.Name == "Shattered Staff" or child.Name == "Shattered Puddle" or child.Name == "Shattered Darkness" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+wait(0.1)
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Shattered Darkness") 
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Shattered Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Shattered Staff")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Spinning Tentacles")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Goop Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Goop Blaster")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8017.88, 4, 219.079) --shattered dream bypass
+wait()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-30178.6, 0.927138, -71.2394) --shattered dream
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-30178.6, 0.927138, -71.2394) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Shattered Darkness") and game.Players.LocalPlayer.Backpack:FindFirstChild("Shattered Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Shattered Staff") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Spinning Tentacles") and game.Players.LocalPlayer.Backpack:FindFirstChild("Goop Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Goop Blaster")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Giant Goop Blaster" or child.Name == "Goop Blaster" or child.Name == "Giant Spinning Tentacles" or child.Name == "Shattered Staff" or child.Name == "Shattered Puddle" or child.Name == "Shattered Darkness" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+wait(0.1)
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Shattered Darkness") 
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Shattered Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Shattered Staff")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Spinning Tentacles")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Goop Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Goop Blaster")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8017.88, 4, 219.079) --shattered dream bypass
+wait()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-30178.6, 0.927138, -71.2394) --shattered dream
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-30178.6, 0.927138, -71.2394) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Shattered Darkness") and game.Players.LocalPlayer.Backpack:FindFirstChild("Shattered Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Shattered Staff") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Spinning Tentacles") and game.Players.LocalPlayer.Backpack:FindFirstChild("Goop Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Goop Blaster")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Giant Goop Blaster" or child.Name == "Goop Blaster" or child.Name == "Giant Spinning Tentacles" or child.Name == "Shattered Staff" or child.Name == "Shattered Puddle" or child.Name == "Shattered Darkness" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+wait(0.1)
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Shattered Darkness") 
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Shattered Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Shattered Staff")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Spinning Tentacles")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Goop Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Goop Blaster")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8017.88, 4, 219.079) --shattered dream bypass
+wait()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-30178.6, 0.927138, -71.2394) --shattered dream
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-30178.6, 0.927138, -71.2394) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Shattered Darkness") and game.Players.LocalPlayer.Backpack:FindFirstChild("Shattered Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Shattered Staff") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Spinning Tentacles") and game.Players.LocalPlayer.Backpack:FindFirstChild("Goop Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Goop Blaster")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Giant Goop Blaster" or child.Name == "Goop Blaster" or child.Name == "Giant Spinning Tentacles" or child.Name == "Shattered Staff" or child.Name == "Shattered Puddle" or child.Name == "Shattered Darkness" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+wait(0.1)
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Shattered Darkness") 
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Shattered Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Shattered Staff")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Spinning Tentacles")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Goop Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Goop Blaster")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8017.88, 4, 219.079) --shattered dream bypass
+wait()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-30178.6, 0.927138, -71.2394) --shattered dream
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-30178.6, 0.927138, -71.2394) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Shattered Darkness") and game.Players.LocalPlayer.Backpack:FindFirstChild("Shattered Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Shattered Staff") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Spinning Tentacles") and game.Players.LocalPlayer.Backpack:FindFirstChild("Goop Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Goop Blaster")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Giant Goop Blaster" or child.Name == "Goop Blaster" or child.Name == "Giant Spinning Tentacles" or child.Name == "Shattered Staff" or child.Name == "Shattered Puddle" or child.Name == "Shattered Darkness" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+wait(0.1)
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Shattered Darkness") 
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Shattered Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Shattered Staff")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Spinning Tentacles")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Goop Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Goop Blaster")
 wait(0.1)
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8017.88, 4, 219.079) --shattered dream bypass
 wait()
@@ -1060,6 +1240,351 @@ repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Blue Bone
 repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Death Puddle")
 repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Scythe")
 wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) --reaper sans
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Blue Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Death Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Scythe")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone" or child.Name == "Giant Blaster" or child.Name == "Gaster Blaster" or child.Name == "Blue Bone" or child.Name == "Death Puddle" or child.Name == "Scythe" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Blue Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Death Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Scythe")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) --reaper sans
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Blue Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Death Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Scythe")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone" or child.Name == "Giant Blaster" or child.Name == "Gaster Blaster" or child.Name == "Blue Bone" or child.Name == "Death Puddle" or child.Name == "Scythe" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Blue Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Death Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Scythe")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) --reaper sans
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Blue Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Death Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Scythe")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone" or child.Name == "Giant Blaster" or child.Name == "Gaster Blaster" or child.Name == "Blue Bone" or child.Name == "Death Puddle" or child.Name == "Scythe" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Blue Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Death Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Scythe")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) --reaper sans
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Blue Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Death Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Scythe")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone" or child.Name == "Giant Blaster" or child.Name == "Gaster Blaster" or child.Name == "Blue Bone" or child.Name == "Death Puddle" or child.Name == "Scythe" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Blue Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Death Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Scythe")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) --reaper sans
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Blue Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Death Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Scythe")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone" or child.Name == "Giant Blaster" or child.Name == "Gaster Blaster" or child.Name == "Blue Bone" or child.Name == "Death Puddle" or child.Name == "Scythe" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Blue Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Death Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Scythe")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) --reaper sans
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Blue Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Death Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Scythe")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone" or child.Name == "Giant Blaster" or child.Name == "Gaster Blaster" or child.Name == "Blue Bone" or child.Name == "Death Puddle" or child.Name == "Scythe" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Blue Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Death Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Scythe")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) --reaper sans
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Blue Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Death Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Scythe")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone" or child.Name == "Giant Blaster" or child.Name == "Gaster Blaster" or child.Name == "Blue Bone" or child.Name == "Death Puddle" or child.Name == "Scythe" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Blue Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Death Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Scythe")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) --reaper sans
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Blue Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Death Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Scythe")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone" or child.Name == "Giant Blaster" or child.Name == "Gaster Blaster" or child.Name == "Blue Bone" or child.Name == "Death Puddle" or child.Name == "Scythe" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Blue Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Death Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Scythe")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) --reaper sans
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Blue Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Death Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Scythe")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone" or child.Name == "Giant Blaster" or child.Name == "Gaster Blaster" or child.Name == "Blue Bone" or child.Name == "Death Puddle" or child.Name == "Scythe" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Blue Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Death Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Scythe")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) --reaper sans
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Blue Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Death Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Scythe")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone" or child.Name == "Giant Blaster" or child.Name == "Gaster Blaster" or child.Name == "Blue Bone" or child.Name == "Death Puddle" or child.Name == "Scythe" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Blue Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Death Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Scythe")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) --reaper sans
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Blue Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Death Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Scythe")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone" or child.Name == "Giant Blaster" or child.Name == "Gaster Blaster" or child.Name == "Blue Bone" or child.Name == "Death Puddle" or child.Name == "Scythe" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Blue Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Death Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Scythe")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) --reaper sans
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Blue Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Death Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Scythe")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone" or child.Name == "Giant Blaster" or child.Name == "Gaster Blaster" or child.Name == "Blue Bone" or child.Name == "Death Puddle" or child.Name == "Scythe" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Blue Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Death Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Scythe")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) --reaper sans
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Blue Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Death Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Scythe")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone" or child.Name == "Giant Blaster" or child.Name == "Gaster Blaster" or child.Name == "Blue Bone" or child.Name == "Death Puddle" or child.Name == "Scythe" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Blue Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Death Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Scythe")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) --reaper sans
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Blue Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Death Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Scythe")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone" or child.Name == "Giant Blaster" or child.Name == "Gaster Blaster" or child.Name == "Blue Bone" or child.Name == "Death Puddle" or child.Name == "Scythe" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Blue Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Death Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Scythe")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) --reaper sans
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Blue Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Death Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Scythe")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone" or child.Name == "Giant Blaster" or child.Name == "Gaster Blaster" or child.Name == "Blue Bone" or child.Name == "Death Puddle" or child.Name == "Scythe" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Blue Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Death Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Scythe")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) --reaper sans
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Blue Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Death Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Scythe")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone" or child.Name == "Giant Blaster" or child.Name == "Gaster Blaster" or child.Name == "Blue Bone" or child.Name == "Death Puddle" or child.Name == "Scythe" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Blue Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Death Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Scythe")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) --reaper sans
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Blue Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Death Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Scythe")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone" or child.Name == "Giant Blaster" or child.Name == "Gaster Blaster" or child.Name == "Blue Bone" or child.Name == "Death Puddle" or child.Name == "Scythe" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Blue Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Death Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Scythe")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) --reaper sans
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Blue Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Death Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Scythe")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone" or child.Name == "Giant Blaster" or child.Name == "Gaster Blaster" or child.Name == "Blue Bone" or child.Name == "Death Puddle" or child.Name == "Scythe" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Blue Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Death Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Scythe")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) --reaper sans
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Blue Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Death Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Scythe")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone" or child.Name == "Giant Blaster" or child.Name == "Gaster Blaster" or child.Name == "Blue Bone" or child.Name == "Death Puddle" or child.Name == "Scythe" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Blue Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Death Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Scythe")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) --reaper sans
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Blue Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Death Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Scythe")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone" or child.Name == "Giant Blaster" or child.Name == "Gaster Blaster" or child.Name == "Blue Bone" or child.Name == "Death Puddle" or child.Name == "Scythe" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Blue Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Death Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Scythe")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) --reaper sans
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Blue Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Death Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Scythe")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone" or child.Name == "Giant Blaster" or child.Name == "Gaster Blaster" or child.Name == "Blue Bone" or child.Name == "Death Puddle" or child.Name == "Scythe" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Blue Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Death Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Scythe")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) --reaper sans
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Blue Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Death Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Scythe")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone" or child.Name == "Giant Blaster" or child.Name == "Gaster Blaster" or child.Name == "Blue Bone" or child.Name == "Death Puddle" or child.Name == "Scythe" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Blue Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Death Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Scythe")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) --reaper sans
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8081.74, 4.95181, -66.972) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Blue Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Death Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Scythe")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone" or child.Name == "Giant Blaster" or child.Name == "Gaster Blaster" or child.Name == "Blue Bone" or child.Name == "Death Puddle" or child.Name == "Scythe" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Blue Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Death Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Scythe")
+wait(0.1)
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.73, 2.1, -27.972) --true fatal error
 repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.73, 2.1, -27.972) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Dual Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Blue Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Void Portal")
 wait(0.1)
@@ -1087,6 +1612,592 @@ repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Bla
 repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Dual Blaster")
 repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Blue Bone")
 repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Void Portal")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.73, 2.1, -27.972) --true fatal error
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.73, 2.1, -27.972) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Dual Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Blue Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Void Portal")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone" or child.Name == "Blue Bone" or child.Name == "Dual Blaster" or child.Name == "Giant Blaster" or child.Name == "Void Portal" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Dual Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Blue Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Void Portal")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.73, 2.1, -27.972) --true fatal error
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.73, 2.1, -27.972) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Dual Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Blue Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Void Portal")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone" or child.Name == "Blue Bone" or child.Name == "Dual Blaster" or child.Name == "Giant Blaster" or child.Name == "Void Portal" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Dual Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Blue Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Void Portal")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.73, 2.1, -27.972) --true fatal error
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.73, 2.1, -27.972) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Dual Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Blue Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Void Portal")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone" or child.Name == "Blue Bone" or child.Name == "Dual Blaster" or child.Name == "Giant Blaster" or child.Name == "Void Portal" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Dual Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Blue Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Void Portal")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.73, 2.1, -27.972) --true fatal error
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.73, 2.1, -27.972) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Dual Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Blue Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Void Portal")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone" or child.Name == "Blue Bone" or child.Name == "Dual Blaster" or child.Name == "Giant Blaster" or child.Name == "Void Portal" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Dual Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Blue Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Void Portal")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.73, 2.1, -27.972) --true fatal error
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.73, 2.1, -27.972) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Dual Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Blue Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Void Portal")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone" or child.Name == "Blue Bone" or child.Name == "Dual Blaster" or child.Name == "Giant Blaster" or child.Name == "Void Portal" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Dual Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Blue Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Void Portal")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.73, 2.1, -27.972) --true fatal error
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.73, 2.1, -27.972) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Dual Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Blue Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Void Portal")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone" or child.Name == "Blue Bone" or child.Name == "Dual Blaster" or child.Name == "Giant Blaster" or child.Name == "Void Portal" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Dual Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Blue Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Void Portal")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.73, 2.1, -27.972) --true fatal error
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.73, 2.1, -27.972) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Dual Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Blue Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Void Portal")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone" or child.Name == "Blue Bone" or child.Name == "Dual Blaster" or child.Name == "Giant Blaster" or child.Name == "Void Portal" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Dual Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Blue Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Void Portal")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.73, 2.1, -27.972) --true fatal error
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.73, 2.1, -27.972) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Dual Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Blue Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Void Portal")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone" or child.Name == "Blue Bone" or child.Name == "Dual Blaster" or child.Name == "Giant Blaster" or child.Name == "Void Portal" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Dual Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Blue Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Void Portal")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.73, 2.1, -27.972) --true fatal error
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.73, 2.1, -27.972) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Dual Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Blue Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Void Portal")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone" or child.Name == "Blue Bone" or child.Name == "Dual Blaster" or child.Name == "Giant Blaster" or child.Name == "Void Portal" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Dual Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Blue Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Void Portal")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.73, 2.1, -27.972) --true fatal error
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.73, 2.1, -27.972) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Dual Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Blue Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Void Portal")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone" or child.Name == "Blue Bone" or child.Name == "Dual Blaster" or child.Name == "Giant Blaster" or child.Name == "Void Portal" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Dual Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Blue Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Void Portal")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.73, 2.1, -27.972) --true fatal error
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.73, 2.1, -27.972) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Dual Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Blue Bone") and game.Players.LocalPlayer.Backpack:FindFirstChild("Void Portal")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone" or child.Name == "Blue Bone" or child.Name == "Dual Blaster" or child.Name == "Giant Blaster" or child.Name == "Void Portal" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Dual Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Blue Bone")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Void Portal")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) --uv ink
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Large Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Brush") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Shield") and game.Players.LocalPlayer.Backpack:FindFirstChild("Dodge") and game.Players.LocalPlayer.Backpack:FindFirstChild("Vial")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone Rows" or child.Name == "Gaster Blaster" or child.Name == "Giant Blaster" or child.Name == "Large Bone Rows" or child.Name == "Ink Puddle" or child.Name == "Brush" or child.Name == "Ink Shield" or child.Name == "Dodge" or child.Name == "Vial" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Large Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Brush")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Shield")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Dodge")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Vial")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) --uv ink
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Large Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Brush") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Shield") and game.Players.LocalPlayer.Backpack:FindFirstChild("Dodge") and game.Players.LocalPlayer.Backpack:FindFirstChild("Vial")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone Rows" or child.Name == "Gaster Blaster" or child.Name == "Giant Blaster" or child.Name == "Large Bone Rows" or child.Name == "Ink Puddle" or child.Name == "Brush" or child.Name == "Ink Shield" or child.Name == "Dodge" or child.Name == "Vial" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Large Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Brush")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Shield")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Dodge")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Vial")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) --uv ink
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Large Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Brush") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Shield") and game.Players.LocalPlayer.Backpack:FindFirstChild("Dodge") and game.Players.LocalPlayer.Backpack:FindFirstChild("Vial")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone Rows" or child.Name == "Gaster Blaster" or child.Name == "Giant Blaster" or child.Name == "Large Bone Rows" or child.Name == "Ink Puddle" or child.Name == "Brush" or child.Name == "Ink Shield" or child.Name == "Dodge" or child.Name == "Vial" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Large Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Brush")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Shield")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Dodge")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Vial")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) --uv ink
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Large Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Brush") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Shield") and game.Players.LocalPlayer.Backpack:FindFirstChild("Dodge") and game.Players.LocalPlayer.Backpack:FindFirstChild("Vial")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone Rows" or child.Name == "Gaster Blaster" or child.Name == "Giant Blaster" or child.Name == "Large Bone Rows" or child.Name == "Ink Puddle" or child.Name == "Brush" or child.Name == "Ink Shield" or child.Name == "Dodge" or child.Name == "Vial" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Large Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Brush")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Shield")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Dodge")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Vial")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) --uv ink
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Large Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Brush") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Shield") and game.Players.LocalPlayer.Backpack:FindFirstChild("Dodge") and game.Players.LocalPlayer.Backpack:FindFirstChild("Vial")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone Rows" or child.Name == "Gaster Blaster" or child.Name == "Giant Blaster" or child.Name == "Large Bone Rows" or child.Name == "Ink Puddle" or child.Name == "Brush" or child.Name == "Ink Shield" or child.Name == "Dodge" or child.Name == "Vial" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Large Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Brush")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Shield")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Dodge")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Vial")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) --uv ink
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Large Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Brush") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Shield") and game.Players.LocalPlayer.Backpack:FindFirstChild("Dodge") and game.Players.LocalPlayer.Backpack:FindFirstChild("Vial")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone Rows" or child.Name == "Gaster Blaster" or child.Name == "Giant Blaster" or child.Name == "Large Bone Rows" or child.Name == "Ink Puddle" or child.Name == "Brush" or child.Name == "Ink Shield" or child.Name == "Dodge" or child.Name == "Vial" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Large Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Brush")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Shield")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Dodge")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Vial")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) --uv ink
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Large Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Brush") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Shield") and game.Players.LocalPlayer.Backpack:FindFirstChild("Dodge") and game.Players.LocalPlayer.Backpack:FindFirstChild("Vial")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone Rows" or child.Name == "Gaster Blaster" or child.Name == "Giant Blaster" or child.Name == "Large Bone Rows" or child.Name == "Ink Puddle" or child.Name == "Brush" or child.Name == "Ink Shield" or child.Name == "Dodge" or child.Name == "Vial" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Large Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Brush")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Shield")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Dodge")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Vial")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) --uv ink
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Large Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Brush") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Shield") and game.Players.LocalPlayer.Backpack:FindFirstChild("Dodge") and game.Players.LocalPlayer.Backpack:FindFirstChild("Vial")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone Rows" or child.Name == "Gaster Blaster" or child.Name == "Giant Blaster" or child.Name == "Large Bone Rows" or child.Name == "Ink Puddle" or child.Name == "Brush" or child.Name == "Ink Shield" or child.Name == "Dodge" or child.Name == "Vial" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Large Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Brush")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Shield")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Dodge")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Vial")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) --uv ink
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Large Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Brush") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Shield") and game.Players.LocalPlayer.Backpack:FindFirstChild("Dodge") and game.Players.LocalPlayer.Backpack:FindFirstChild("Vial")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone Rows" or child.Name == "Gaster Blaster" or child.Name == "Giant Blaster" or child.Name == "Large Bone Rows" or child.Name == "Ink Puddle" or child.Name == "Brush" or child.Name == "Ink Shield" or child.Name == "Dodge" or child.Name == "Vial" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Large Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Brush")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Shield")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Dodge")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Vial")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) --uv ink
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Large Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Brush") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Shield") and game.Players.LocalPlayer.Backpack:FindFirstChild("Dodge") and game.Players.LocalPlayer.Backpack:FindFirstChild("Vial")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone Rows" or child.Name == "Gaster Blaster" or child.Name == "Giant Blaster" or child.Name == "Large Bone Rows" or child.Name == "Ink Puddle" or child.Name == "Brush" or child.Name == "Ink Shield" or child.Name == "Dodge" or child.Name == "Vial" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Large Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Brush")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Shield")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Dodge")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Vial")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) --uv ink
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Large Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Brush") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Shield") and game.Players.LocalPlayer.Backpack:FindFirstChild("Dodge") and game.Players.LocalPlayer.Backpack:FindFirstChild("Vial")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone Rows" or child.Name == "Gaster Blaster" or child.Name == "Giant Blaster" or child.Name == "Large Bone Rows" or child.Name == "Ink Puddle" or child.Name == "Brush" or child.Name == "Ink Shield" or child.Name == "Dodge" or child.Name == "Vial" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Large Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Brush")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Shield")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Dodge")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Vial")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) --uv ink
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Large Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Brush") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Shield") and game.Players.LocalPlayer.Backpack:FindFirstChild("Dodge") and game.Players.LocalPlayer.Backpack:FindFirstChild("Vial")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone Rows" or child.Name == "Gaster Blaster" or child.Name == "Giant Blaster" or child.Name == "Large Bone Rows" or child.Name == "Ink Puddle" or child.Name == "Brush" or child.Name == "Ink Shield" or child.Name == "Dodge" or child.Name == "Vial" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Large Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Brush")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Shield")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Dodge")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Vial")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) --uv ink
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Large Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Brush") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Shield") and game.Players.LocalPlayer.Backpack:FindFirstChild("Dodge") and game.Players.LocalPlayer.Backpack:FindFirstChild("Vial")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone Rows" or child.Name == "Gaster Blaster" or child.Name == "Giant Blaster" or child.Name == "Large Bone Rows" or child.Name == "Ink Puddle" or child.Name == "Brush" or child.Name == "Ink Shield" or child.Name == "Dodge" or child.Name == "Vial" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Large Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Brush")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Shield")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Dodge")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Vial")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) --uv ink
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Large Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Brush") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Shield") and game.Players.LocalPlayer.Backpack:FindFirstChild("Dodge") and game.Players.LocalPlayer.Backpack:FindFirstChild("Vial")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone Rows" or child.Name == "Gaster Blaster" or child.Name == "Giant Blaster" or child.Name == "Large Bone Rows" or child.Name == "Ink Puddle" or child.Name == "Brush" or child.Name == "Ink Shield" or child.Name == "Dodge" or child.Name == "Vial" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Large Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Brush")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Shield")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Dodge")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Vial")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) --uv ink
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Large Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Brush") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Shield") and game.Players.LocalPlayer.Backpack:FindFirstChild("Dodge") and game.Players.LocalPlayer.Backpack:FindFirstChild("Vial")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone Rows" or child.Name == "Gaster Blaster" or child.Name == "Giant Blaster" or child.Name == "Large Bone Rows" or child.Name == "Ink Puddle" or child.Name == "Brush" or child.Name == "Ink Shield" or child.Name == "Dodge" or child.Name == "Vial" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Large Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Brush")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Shield")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Dodge")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Vial")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) --uv ink
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Large Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Brush") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Shield") and game.Players.LocalPlayer.Backpack:FindFirstChild("Dodge") and game.Players.LocalPlayer.Backpack:FindFirstChild("Vial")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone Rows" or child.Name == "Gaster Blaster" or child.Name == "Giant Blaster" or child.Name == "Large Bone Rows" or child.Name == "Ink Puddle" or child.Name == "Brush" or child.Name == "Ink Shield" or child.Name == "Dodge" or child.Name == "Vial" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Large Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Brush")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Shield")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Dodge")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Vial")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) --uv ink
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Large Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Brush") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Shield") and game.Players.LocalPlayer.Backpack:FindFirstChild("Dodge") and game.Players.LocalPlayer.Backpack:FindFirstChild("Vial")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone Rows" or child.Name == "Gaster Blaster" or child.Name == "Giant Blaster" or child.Name == "Large Bone Rows" or child.Name == "Ink Puddle" or child.Name == "Brush" or child.Name == "Ink Shield" or child.Name == "Dodge" or child.Name == "Vial" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Large Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Brush")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Shield")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Dodge")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Vial")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) --uv ink
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Large Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Brush") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Shield") and game.Players.LocalPlayer.Backpack:FindFirstChild("Dodge") and game.Players.LocalPlayer.Backpack:FindFirstChild("Vial")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone Rows" or child.Name == "Gaster Blaster" or child.Name == "Giant Blaster" or child.Name == "Large Bone Rows" or child.Name == "Ink Puddle" or child.Name == "Brush" or child.Name == "Ink Shield" or child.Name == "Dodge" or child.Name == "Vial" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Large Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Brush")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Shield")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Dodge")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Vial")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) --uv ink
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Large Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Brush") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Shield") and game.Players.LocalPlayer.Backpack:FindFirstChild("Dodge") and game.Players.LocalPlayer.Backpack:FindFirstChild("Vial")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone Rows" or child.Name == "Gaster Blaster" or child.Name == "Giant Blaster" or child.Name == "Large Bone Rows" or child.Name == "Ink Puddle" or child.Name == "Brush" or child.Name == "Ink Shield" or child.Name == "Dodge" or child.Name == "Vial" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Large Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Brush")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Shield")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Dodge")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Vial")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) --uv ink
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Large Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Brush") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Shield") and game.Players.LocalPlayer.Backpack:FindFirstChild("Dodge") and game.Players.LocalPlayer.Backpack:FindFirstChild("Vial")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone Rows" or child.Name == "Gaster Blaster" or child.Name == "Giant Blaster" or child.Name == "Large Bone Rows" or child.Name == "Ink Puddle" or child.Name == "Brush" or child.Name == "Ink Shield" or child.Name == "Dodge" or child.Name == "Vial" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Large Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Brush")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Shield")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Dodge")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Vial")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) --uv ink
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Large Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Brush") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Shield") and game.Players.LocalPlayer.Backpack:FindFirstChild("Dodge") and game.Players.LocalPlayer.Backpack:FindFirstChild("Vial")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone Rows" or child.Name == "Gaster Blaster" or child.Name == "Giant Blaster" or child.Name == "Large Bone Rows" or child.Name == "Ink Puddle" or child.Name == "Brush" or child.Name == "Ink Shield" or child.Name == "Dodge" or child.Name == "Vial" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Large Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Brush")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Shield")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Dodge")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Vial")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) --uv ink
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Large Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Brush") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Shield") and game.Players.LocalPlayer.Backpack:FindFirstChild("Dodge") and game.Players.LocalPlayer.Backpack:FindFirstChild("Vial")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone Rows" or child.Name == "Gaster Blaster" or child.Name == "Giant Blaster" or child.Name == "Large Bone Rows" or child.Name == "Ink Puddle" or child.Name == "Brush" or child.Name == "Ink Shield" or child.Name == "Dodge" or child.Name == "Vial" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Large Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Brush")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Shield")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Dodge")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Vial")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) --uv ink
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Large Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Brush") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Shield") and game.Players.LocalPlayer.Backpack:FindFirstChild("Dodge") and game.Players.LocalPlayer.Backpack:FindFirstChild("Vial")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone Rows" or child.Name == "Gaster Blaster" or child.Name == "Giant Blaster" or child.Name == "Large Bone Rows" or child.Name == "Ink Puddle" or child.Name == "Brush" or child.Name == "Ink Shield" or child.Name == "Dodge" or child.Name == "Vial" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Large Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Brush")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Shield")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Dodge")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Vial")
+wait(0.1)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) --uv ink
+repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Large Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Brush") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Shield") and game.Players.LocalPlayer.Backpack:FindFirstChild("Dodge") and game.Players.LocalPlayer.Backpack:FindFirstChild("Vial")
+wait(0.1)
+for _, child in ipairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+	if child.Name == "Bone Rows" or child.Name == "Gaster Blaster" or child.Name == "Giant Blaster" or child.Name == "Large Bone Rows" or child.Name == "Ink Puddle" or child.Name == "Brush" or child.Name == "Ink Shield" or child.Name == "Dodge" or child.Name == "Vial" then
+		child.Parent = game.Players.LocalPlayer.Character
+	end
+end
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Giant Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Gaster Blaster")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Large Bone Rows")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Puddle")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Brush")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Ink Shield")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Dodge")
+repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Vial")
 wait(0.1)
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) --uv ink
 repeat game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-8003.71, 2.6984, -261.973) wait(0.25) until game.Players.LocalPlayer.Backpack:FindFirstChild("Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Giant Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Gaster Blaster") and game.Players.LocalPlayer.Backpack:FindFirstChild("Large Bone Rows") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Puddle") and game.Players.LocalPlayer.Backpack:FindFirstChild("Brush") and game.Players.LocalPlayer.Backpack:FindFirstChild("Ink Shield") and game.Players.LocalPlayer.Backpack:FindFirstChild("Dodge") and game.Players.LocalPlayer.Backpack:FindFirstChild("Vial")
@@ -1837,7 +2948,7 @@ tool6.Parent = game.Players.LocalPlayer.Backpack
 game.Players.LocalPlayer.Character.Humanoid.Died:Connect(function()
 	currentcharacter = "Human"
 end)
-local text = {"Omni404", "0mn1404", "0mnipo5ence", "god", "4040404040440404", "your worst nightmare", "this is the end"}
+local text = {"Omnivirus", "0mniv1rus", "Omn1v1ru5", "0mniviru5", "Omn1virus", "Omniviru5", "0mn1v1ru5"}
 while game.Players.LocalPlayer.Character.Humanoid.Health > 0 and currentcharacter == "Human" do
 	game.Players.LocalPlayer.Character.Head.BillboardGui.TextLabel.Text = text[math.random(1,#text)]
 	wait(math.random(1,15)/10)
